@@ -1,0 +1,6 @@
+﻿  Tower.cpp
+C:\Users\somme\OneDrive\Pulpit\VS projects\TowerDefense\TowerDefense\Headers.h(21,20): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „Tower.cpp”)
+  
+C:\Users\somme\OneDrive\Pulpit\VS projects\TowerDefense\TowerDefense\Tower.cpp(103,8): warning C4552: „*”: Wynik wyrażenia nie jest używany
+  TowerDefense.vcxproj -> C:\Users\somme\OneDrive\Pulpit\VS projects\TowerDefense\x64\Debug\TowerDefense.exe
