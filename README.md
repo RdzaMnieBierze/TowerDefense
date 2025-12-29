@@ -16,7 +16,6 @@ Głównym celem projektu nie była sama rozgrywka, lecz **demonstracja solidnych
 Projekt został zaprojektowany z myślą o czystej architekturze:
 
 * **Dziedziczenie i Polimorfizm:**
-    * Konkretne typy wież i wrogów dziedziczą po klasach nadrzędnych, nadpisując metody `Update()` czy `Draw()`.
 * **Enkapsulacja:** Logika gry oddzielona od warstwy renderowania.
 * **Zarządzanie pamięcią:** Świadome operowanie na wskaźnikach i referencjach.
 
